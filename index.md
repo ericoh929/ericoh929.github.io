@@ -8,17 +8,17 @@ C: Conference, W: Workshop, J: Journal, P: Preprint, D: Domestic.
 
 [J1] The StarCraft Multi-Agent Exploration Challenges: Learning Multi-Stage Tasks and Environmental Factors without Precise Reward Functions  
 Mingyu Kim\*, **Jihwan Oh**\* Yongsik Lee, Joonkee Kim, Seonghwan Kim, Song Chong, Se-Young Yun  
-IEEE Access'23  
+IEEE Access'23
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10099458"> [Paper] </a>
 
 [C1] Toward Risk-based Optimistic Exploration for Cooperative Multi-Agent Reinforcement Learning  
 **Jihwan Oh**\*, Joonkee Kim\*, Minchan Jeong, Se-Young Yun  
-AAMAS'23  
+AAMAS'23
 <a href="https://arxiv.org/pdf/2303.01768.pdf"> [Paper] </a>
 
 [W2] Risk Perspective Exploration in Distributional Reinforcement Learning  
 **Jihwan Oh**, Joonkee Kim, Se-Young Yun  
-AI for Agent Based Modelling Workshop at ICML'22  
+AI for Agent Based Modelling Workshop at ICML'22
 <a href="https://arxiv.org/pdf/2206.14170.pdf"> [Paper] </a>
 
 [W1] Real-time and Explainable Detection of Epidemics with Global News Data  
