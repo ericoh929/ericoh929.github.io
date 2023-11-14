@@ -17,12 +17,12 @@ AI for Agent Based Modelling Workshop at ICML'22
 
 [J1] The StarCraft Multi-Agent Exploration Challenges: Learning Multi-Stage Tasks and Environmental Factors without Precise Reward Functions
 Mingyu Kim\*, **Jihwan Oh**\* Yongsik Lee, Joonkee Kim, Seonghwan Kim, Song Chong, Se-Young Yun  
-POMACS'18  
+IEEE Access'23  
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10099458"> [Paper] </a>
 
 [C1] Toward Risk-based Optimistic Exploration for Cooperative Multi-Agent Reinforcement Learning 
 **Jihwan Oh**\*, Joonkee Kim\*, Minchan Jeong, Se-Young Yun  
-SIGMETRICS'18  
+AAMAS'23  
 <a href="https://arxiv.org/pdf/2303.01768.pdf"> [Paper] </a>
 
 [M2] Risk Scheduling-based Optimistic Exploration for Distributional Reinforcement Learning
