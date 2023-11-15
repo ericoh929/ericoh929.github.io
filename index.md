@@ -1,4 +1,4 @@
-Hello, I am Jihwan Oh. My research has centered on robust communication between agents utilizing MARL and Large Laguage Model algorithms. 
+Hello, I am Jihwan Oh. My research centered on Multi Agent Deep Reinforcement Learning until 2022. Thesedays, I have centered on communication between agents and Large Laguage Model algorithms in various domain.
 
 ---
 
@@ -23,7 +23,7 @@ AI for Agent Based Modelling Workshop at ICML'22
 
 [W1] Real-time and Explainable Detection of Epidemics with Global News Data  
 Sungnyun Kim, Jaewoo Shin, Seongha Eom, **Jihwan Oh**, Se-Young Yun
-Workshop on Healthcare AI and COVID-19, ICML 22
+Workshop on Healthcare AI and COVID-19, ICML'22
 <a href="https://proceedings.mlr.press/v184/kim22a/kim22a.pdf"> [Paper] </a>
 
 [D2] Risk Scheduling-based Optimistic Exploration for Distributional Reinforcement Learning  
@@ -48,5 +48,5 @@ KOR patent number: 10-2022-0171478
 
 ## Education
 
-[KAIST], M.S. in Graduate scholl of AI/ Seoul, South Korea/ Feb 2023  
+[KAIST], M.S. in Graduate school of AI/ Seoul, South Korea/ Feb 2023  
 [KMA], B.S. in Economics/ Seoul, South Korea/ Feb 2016  
