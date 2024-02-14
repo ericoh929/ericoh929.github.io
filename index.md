@@ -47,6 +47,6 @@ KOR patent number: 10-2022-0171478
 ---
 
 ## Education
-[KAIST], Ph.D candidate in Graduate school of AI/ Seoul, South Korea/ 2024~ under professor Se-Young Yun
-[KAIST], M.S. in Graduate school of AI/ Seoul, South Korea/ Feb 2023 under professor Se-Young Yun
+[KAIST], Ph.D candidate in Graduate school of AI/ Seoul, South Korea/ 2024~ under professor Se-Young Yun  
+[KAIST], M.S. in Graduate school of AI/ Seoul, South Korea/ Feb 2023 under professor Se-Young Yun  
 [KMA], B.S. in Economics/ Seoul, South Korea/ Feb 2016  
