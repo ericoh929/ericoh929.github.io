@@ -1,4 +1,4 @@
-Hello, I am Jihwan Oh. My research area was Multi Agent Deep Reinforcement Learning until 2022. Thesedays, I have centered on communication between agents with Generative models in various domain.
+Hello, I am Jihwan Oh. My research area was Multi Agent Deep Reinforcement Learning until 2022. Thesedays, I have centered on communication among agents with Generative models in various domain.
 
 ---
 
