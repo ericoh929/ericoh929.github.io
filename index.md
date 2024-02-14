@@ -1,4 +1,4 @@
-Hello, I am Jihwan Oh. My research area was Multi Agent Deep Reinforcement Learning until 2022. Thesedays, I have centered on communication between agents and Large Laguage Model algorithms in various domain.
+Hello, I am Jihwan Oh. My research area was Multi Agent Deep Reinforcement Learning until 2022. Thesedays, I have centered on communication between agents with Generative models in various domain.
 
 ---
 
@@ -47,6 +47,6 @@ KOR patent number: 10-2022-0171478
 ---
 
 ## Education
-
-[KAIST], M.S. in Graduate school of AI/ Seoul, South Korea/ Feb 2023  
+[KAIST], Ph.D candidate in Graduate school of AI/ Seoul, South Korea/ 2024~ under professor Se-Young Yun
+[KAIST], M.S. in Graduate school of AI/ Seoul, South Korea/ Feb 2023 under professor Se-Young Yun
 [KMA], B.S. in Economics/ Seoul, South Korea/ Feb 2016  
