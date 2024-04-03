@@ -28,7 +28,7 @@ Workshop on Healthcare AI and COVID-19, ICML'22
 
 [D2] Risk Scheduling-based Optimistic Exploration for Distributional Reinforcement Learning  
 **Jihwan Oh**, Joonkee Kim, Se-Young Yun  
-KCC'21
+KCC'23
 <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11214570&nodeId=NODE11214570&medaTypeCode=185005&locale=ko&foreignIpYn=N&articleTitle=분포+강화학습을+위한+위험도+스케줄링+기반의+낙천적+탐색+방법&articleTitleEn=Risk+Scheduling-based+Optimistic+Exploration+for+Distributional+Reinforcement+Learning&language=ko_KR&hasTopBanner=true"> [Paper] </a>
 
 [D1] The Unified Framework for Efficient Deep Learning Computer Vision Model  
