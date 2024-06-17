@@ -6,6 +6,11 @@ Hello, I am Jihwan Oh. My research area was Multi Agent Deep Reinforcement Learn
 C: Conference, W: Workshop, J: Journal, P: Preprint, D: Domestic.   
 \* : Equal Contribution
 
+[P1] Preference Alignment with Flow Matching  
+Minu Kim, Yongsik Lee, Sehyeok Kang, **Jihwan Oh**, Song Chong, Seyoung Yun
+Archive'24 
+<a href="https://arxiv.org/pdf/2405.19806"> [Paper] </a>
+
 [J1] The StarCraft Multi-Agent Exploration Challenges: Learning Multi-Stage Tasks and Environmental Factors without Precise Reward Functions  
 Mingyu Kim\*, **Jihwan Oh**\* Yongsik Lee, Joonkee Kim, Seonghwan Kim, Song Chong, Se-Young Yun  
 IEEE Access'23
