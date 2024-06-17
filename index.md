@@ -1,4 +1,4 @@
-Hello, I am Jihwan Oh. My research area was Multi Agent Deep Reinforcement Learning until 2022. Thesedays, I have centered offline RL with generative model in various challenges. Please refer to below papers.
+Hello, I am Jihwan Oh. My research area was Multi Agent Deep Reinforcement Learning until 2022. Thesedays, I have centered offline RL with generative models in various challenges. Please refer to below papers.
 
 ---
 
@@ -7,7 +7,7 @@ C: Conference, W: Workshop, J: Journal, P: Preprint, D: Domestic.
 \* : Equal Contribution
 
 [P1] Preference Alignment with Flow Matching  
-Minu Kim, Yongsik Lee, Sehyeok Kang, **Jihwan Oh**, Song Chong, Seyoung Yun
+Minu Kim, Yongsik Lee, Sehyeok Kang, **Jihwan Oh**, Song Chong, Seyoung Yun  
 Archive'24 
 <a href="https://arxiv.org/pdf/2405.19806"> [Paper] </a>
 
