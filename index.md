@@ -7,7 +7,7 @@ C: Conference, W: Workshop, J: Journal, P: Preprint, D: Domestic.
 \* : Equal Contribution
 
 [P1] Preference Alignment with Flow Matching  
-Minu Kim, Yongsik Lee, Sehyeok Kang, **Jihwan Oh**, Song Chong, Se-young Yun  
+Minu Kim, Yongsik Lee, Sehyeok Kang, **Jihwan Oh**, Song Chong, Se-Young Yun  
 Archive'24 
 <a href="https://arxiv.org/pdf/2405.19806"> [Paper] </a>
 
