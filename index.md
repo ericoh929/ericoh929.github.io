@@ -8,7 +8,7 @@ C: Conference, W: Workshop, J: Journal, P: Preprint, D: Domestic.
 
 [W3] Diffusion-based Episodes Augmentation for Offline Multi-Agent Reinforcement Learning  
 **Jihwan Oh**, Sungnyun Kim, Gahee Kim, Seonghwan Kim, Se-Young Yun  
-Structured Probabilistic Inference & Generative Modeling (SPIGM) at ICML'24
+Structured Probabilistic Inference & Generative Modeling (SPIGM) Workshop at ICML'24
 
 [P1] Preference Alignment with Flow Matching  
 Minu Kim, Yongsik Lee, Sehyeok Kang, **Jihwan Oh**, Song Chong, Se-Young Yun  
