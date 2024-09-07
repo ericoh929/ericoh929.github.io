@@ -1,4 +1,4 @@
-Hello, I am Jihwan Oh. My research area was Multi Agent Deep Reinforcement Learning until 2022. Thesedays, I have centered offline RL with generative models in various challenges. Please refer to below papers.
+Hello, I am Jihwan Oh. My research area was Multi Agent Deep Reinforcement Learning until 2022. Thesedays, I have centered LLMs-based agents on decision making in various challenges. Please refer to below papers.
 
 ---
 
@@ -8,7 +8,8 @@ C: Conference, W: Workshop, J: Journal, P: Preprint, D: Domestic.
 
 [W3] Diffusion-based Episodes Augmentation for Offline Multi-Agent Reinforcement Learning  
 **Jihwan Oh**, Sungnyun Kim, Gahee Kim, Seonghwan Kim, Se-Young Yun  
-Structured Probabilistic Inference & Generative Modeling (SPIGM) Workshop at ICML'24
+Structured Probabilistic Inference & Generative Modeling (SPIGM) Workshop at ICML'24 
+<a href="https://arxiv.org/pdf/2408.13092"> [Paper] </a>
 
 [P1] Preference Alignment with Flow Matching  
 Minu Kim, Yongsik Lee, Sehyeok Kang, **Jihwan Oh**, Song Chong, Se-Young Yun  
