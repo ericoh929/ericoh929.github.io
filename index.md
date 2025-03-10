@@ -6,6 +6,11 @@ Hello, I am Jihwan Oh. My research area was Multi Agent Deep Reinforcement Learn
 C: Conference, W: Workshop, J: Journal, P: Preprint, D: Domestic.   
 \* : Equal Contribution
 
+[W4] When Debate Fails: Bias Reinforcement in Large Language Models  
+**Jihwan Oh**\*, Minchan Jeong\*, Jongwoo Ko, Se-Young Yun
+Reasoning and Planning for Large Language Models Workshop at ICLR'25 
+<a href="https://openreview.net/attachment?id=c5bjw7hqix&name=pdf"> [Paper] </a>
+
 [W3] Diffusion-based Episodes Augmentation for Offline Multi-Agent Reinforcement Learning  
 **Jihwan Oh**, Sungnyun Kim, Gahee Kim, Seonghwan Kim, Se-Young Yun  
 Structured Probabilistic Inference & Generative Modeling (SPIGM) Workshop at ICML'24 
