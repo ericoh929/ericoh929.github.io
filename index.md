@@ -7,7 +7,7 @@ C: Conference, W: Workshop, J: Journal, P: Preprint, D: Domestic.
 \* : Equal Contribution
 
 [W4] When Debate Fails: Bias Reinforcement in Large Language Models  
-**Jihwan Oh**\*, Minchan Jeong\*, Jongwoo Ko, Se-Young Yun
+**Jihwan Oh**\*, Minchan Jeong\*, Jongwoo Ko, Se-Young Yun  
 Reasoning and Planning for Large Language Models Workshop at ICLR'25 
 <a href="https://openreview.net/attachment?id=c5bjw7hqix&name=pdf"> [Paper] </a>
 
