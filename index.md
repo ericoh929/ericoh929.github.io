@@ -37,7 +37,7 @@ AI for Agent Based Modelling Workshop at ICML'22
 <a href="https://arxiv.org/pdf/2206.14170.pdf"> [Paper] </a>
 
 [W1] Real-time and Explainable Detection of Epidemics with Global News Data  
-Sungnyun Kim, Jaewoo Shin, Seongha Eom, **Jihwan Oh**, Se-Young Yun
+Sungnyun Kim, Jaewoo Shin, Seongha Eom, **Jihwan Oh**, Se-Young Yun  
 Workshop on Healthcare AI and COVID-19, ICML'22
 <a href="https://proceedings.mlr.press/v184/kim22a/kim22a.pdf"> [Paper] </a>
 
