@@ -16,9 +16,9 @@ Reasoning and Planning for Large Language Models Workshop at ICLR'25
 Structured Probabilistic Inference & Generative Modeling (SPIGM) Workshop at ICML'24 
 <a href="https://arxiv.org/pdf/2408.13092"> [Paper] </a>
 
-[P1] Preference Alignment with Flow Matching  
+[C2] Preference Alignment with Flow Matching  
 Minu Kim, Yongsik Lee, Sehyeok Kang, **Jihwan Oh**, Song Chong, Se-Young Yun  
-Archive'24 
+NIPS'24 
 <a href="https://arxiv.org/pdf/2405.19806"> [Paper] </a>
 
 [J1] The StarCraft Multi-Agent Exploration Challenges: Learning Multi-Stage Tasks and Environmental Factors without Precise Reward Functions  
