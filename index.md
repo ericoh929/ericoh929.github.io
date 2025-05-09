@@ -1,10 +1,10 @@
-Hello, I am Jihwan Oh. My research area was Multi Agent Deep Reinforcement Learning until 2022. Thesedays, I have centered LLMs-based agents on decision making in various challenges. Please refer to below papers.
+Hello, I am Jihwan Oh, an ai researcher at KAIST AI. My research area was Multi Agent Deep Reinforcement Learning [C1/J1/W2/W3] during my M.S. candidate period. Thesedays, I have centered LLMs of reasoning, self-improving, and test-time scaling [C3/W4]. Please refer to below papers.
 
 ---
 
 ## Publications
 C: Conference, W: Workshop, J: Journal, P: Preprint, D: Domestic.   
-\* : Equal Contribution ^ : Equal Advising 
+\*: Equal Contribution  ^: Equal Advising 
 
 ### Conference
 [C3/W4] Understanding Bias Reinforcement in LLM Agents Debate  
