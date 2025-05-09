@@ -10,7 +10,7 @@ C: Conference, W: Workshop, J: Journal, P: Preprint, D: Domestic.
 [C3/W4] Understanding Bias Reinforcement in LLM Agents Debate  
 **Jihwan Oh**\*, Minchan Jeong\*, Jongwoo Ko^, Se-Young Yun^  
 ICML'25 
-<a href="https://arxiv.org/pdf/2405.19806"> [Paper] </a>
+<a href="https://arxiv.org/abs/2503.16814"> [Paper] </a>
 
 [C2] Preference Alignment with Flow Matching  
 Minu Kim, Yongsik Lee, Sehyeok Kang, **Jihwan Oh**, Song Chong, Se-Young Yun  
