@@ -4,11 +4,11 @@ Hello, I am Jihwan Oh. My research area was Multi Agent Deep Reinforcement Learn
 
 ## Publications
 C: Conference, W: Workshop, J: Journal, P: Preprint, D: Domestic.   
-\* : Equal Contribution \^ : Equal Advising 
+\* : Equal Contribution ^ : Equal Advising 
 
 ### Conference
 [C3/W4] Understanding Bias Reinforcement in LLM Agents Debate  
-**Jihwan Oh**\*, Minchan Jeong\*, Jongwoo Ko\^, Se-Young Yun\^  
+**Jihwan Oh**\*, Minchan Jeong\*, Jongwoo Ko^, Se-Young Yun^  
 ICML'25 
 <a href="https://arxiv.org/pdf/2405.19806"> [Paper] </a>
 
