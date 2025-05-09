@@ -4,7 +4,7 @@ Hello, I am Jihwan Oh, an ai researcher at KAIST AI. My research area was Multi 
 
 ## Publications
 C: Conference, W: Workshop, J: Journal, P: Preprint, D: Domestic.   
-\*: Equal Contribution  ^: Equal Advising 
+\*: Equal Contribution,  ^: Equal Advising 
 
 ### Conference
 [C3/W4] Understanding Bias Reinforcement in LLM Agents Debate  
