@@ -45,7 +45,7 @@ papers:
     website:
     code:
 
-  - title: "[C2] Preference Alignment with Flow Matching"
+  - title: "Preference Alignment with Flow Matching"
     authors: "Minu Kim<sup>*</sup>, Yongsik Lee<sup>*</sup>, Sehyeok Kang, <b>Jihwan Oh</b>, Song Chong, Se-Young Yun<sup>&dagger;</sup>"
     venue: "Neurips 2024"
     selected: "y"
