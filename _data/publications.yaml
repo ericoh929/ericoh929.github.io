@@ -35,7 +35,7 @@ papers:
     website:
     code:
 
-- title: "Preference Alignment with Flow Matching"
+  - title: "Preference Alignment with Flow Matching"
     authors: "Minu Kim<sup>*</sup>, Yongsik Lee<sup>*</sup>, Sehyeok Kang, <b>Jihwan Oh</b>, Song Chong, Se-Young Yun<sup>&dagger;</sup>"
     venue: "Neurips 2024"
     selected: "y"
@@ -44,7 +44,7 @@ papers:
     website:
     code:
 
-- title: "Diffusion-based Episodes Augmentation for Offline Multi-Agent Reinforcement Learning"
+  - title: "Diffusion-based Episodes Augmentation for Offline Multi-Agent Reinforcement Learning"
     authors: "<b>Jihwan Oh</b>, Sungnyun Kim, Gahee Kim, Sunghwan Kim, Se-Young Yun<sup>&dagger;</sup>"
     venue: "ICML 2024 SPIGM Workshop"
     selected: "y"
@@ -54,7 +54,7 @@ papers:
     code:
 
 
-- title: "Toward Risk-based Optimistic Exploration for Cooperative Multi-Agent Reinforcement Learning"
+  - title: "Toward Risk-based Optimistic Exploration for Cooperative Multi-Agent Reinforcement Learning"
     authors: "<b>Jihwan Oh<sup>*</sup></b>, Joonkee Kim<sup>*</sup>, Minchan Jeong, Se-Young Yun<sup>&dagger;</sup>"
     venue: "AAMAS 2024"
     selected: "y"
@@ -64,7 +64,7 @@ papers:
     code:
 
 
-- title: "The StarCraft Multi-Agent Exploration Challenges: Learning Multi-Stage Tasks and Environmental Factors without Precise Reward Functions"
+  - title: "The StarCraft Multi-Agent Exploration Challenges: Learning Multi-Stage Tasks and Environmental Factors without Precise Reward Functions"
     authors: "Mingyu Kim<sup>*</sup>, <b>Jihwan Oh<sup>*</sup></b>, Yongsik Lee, Joonkee Kim, Seonghwan Kim, Song Chong, Se-Young Yun<sup>&dagger;</sup>"
     venue: "IEEE Access 2024"
     selected: "y"
