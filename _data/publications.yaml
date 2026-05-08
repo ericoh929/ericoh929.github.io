@@ -1,7 +1,7 @@
 papers:
   - title: "PerMix-RLVR: Preserving Persona Expressivity under Verifiable-Reward Alignment"
     authors: "<b>Jihwan Oh<sup>*</sup></b>, Soowon Oh<sup>*</sup>, Murad Aghazada, Minchan Jeong, MyeongSeok Kang, Sungnyun Kim<sup>&dagger;</sup>, Se-Young Yun<sup>&dagger;</sup>"
-    venue: "Preprint"
+    venue: "Preprint / AAAI 2026 DAI Workshop"
     selected: "y"
     paper_pdf:
     arxiv:
@@ -19,8 +19,7 @@ papers:
 
   - title: "From Belief Entrenchment to Robust Reasoning in LLM Agents"
     authors: "<b>Jihwan Oh<sup>*</sup></b>, Minchan Jeong<sup>*</sup>, Jongwoo Ko<sup>&dagger;</sup>, Se-Young Yun<sup>&dagger;</sup>"
-    venue: "TACL 2026"
-    venue2: "To be presented at ACL 2026"
+    venue: "TACL 2026 (To be presented at ACL 2026)"
     selected: "y"
     paper_pdf:
     arxiv:
@@ -35,3 +34,44 @@ papers:
     arxiv:
     website:
     code:
+
+- title: "Preference Alignment with Flow Matching"
+    authors: "Minu Kim<sup>*</sup>, Yongsik Lee<sup>*</sup>, Sehyeok Kang, <b>Jihwan Oh</b>, Song Chong, Se-Young Yun<sup>&dagger;</sup>"
+    venue: "Neurips 2024"
+    selected: "y"
+    paper_pdf:
+    arxiv:
+    website:
+    code:
+
+- title: "Diffusion-based Episodes Augmentation for Offline Multi-Agent Reinforcement Learning"
+    authors: "<b>Jihwan Oh</b>, Sungnyun Kim, Gahee Kim, Sunghwan Kim, Se-Young Yun<sup>&dagger;</sup>"
+    venue: "ICML 2024 SPIGM Workshop"
+    selected: "y"
+    paper_pdf:
+    arxiv:
+    website:
+    code:
+
+
+- title: "Toward Risk-based Optimistic Exploration for Cooperative Multi-Agent Reinforcement Learning"
+    authors: "<b>Jihwan Oh<sup>*</sup></b>, Joonkee Kim<sup>*</sup>, Minchan Jeong, Se-Young Yun<sup>&dagger;</sup>"
+    venue: "AAMAS 2024"
+    selected: "y"
+    paper_pdf:
+    arxiv:
+    website:
+    code:
+
+
+- title: "The StarCraft Multi-Agent Exploration Challenges: Learning Multi-Stage Tasks and Environmental Factors without Precise Reward Functions"
+    authors: "Mingyu Kim<sup>*</sup>, <b>Jihwan Oh<sup>*</sup></b>, Yongsik Lee, Joonkee Kim, Seonghwan Kim, Song Chong, Se-Young Yun<sup>&dagger;</sup>"
+    venue: "IEEE Access 2024"
+    selected: "y"
+    paper_pdf:
+    arxiv:
+    website:
+    code:
+
+
+    
