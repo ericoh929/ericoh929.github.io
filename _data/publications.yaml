@@ -1,36 +1,37 @@
 papers:
-- title: "PerMix-RLVR: Preserving Persona Expressivity under Verifiable-Reward Alignment"
+  - title: "PerMix-RLVR: Preserving Persona Expressivity under Verifiable-Reward Alignment"
     authors: "<b>Jihwan Oh</b>, Soowon Oh, Murad Aghazada, Minchan Jeong, MyeongSeok Kang, Sungnyun Kim, Se-Young Yun"
     venue: "Preprint"
-    selected: y
-    #paper_pdf:
-    #arxiv:
-    #website:
-    #code:
+    selected: "y"
+    paper_pdf:
+    arxiv:
+    website:
+    code:
 
   - title: "MERIT: Measuring Human-Aligned Strategic Behavior in LLM Negotiation Agents"
     authors: "<b>Jihwan Oh</b>, Murad Aghazada, Yooju Shin, Se-Young Yun, Taehyeon Kim"
     venue: "ACL 2026"
-    selected: y
-    #paper_pdf: 
-    #arxiv:
-    #website:
-    #code:
+    selected: "y"
+    paper_pdf:
+    arxiv:
+    website:
+    code:
 
   - title: "From Belief Entrenchment to Robust Reasoning in LLM Agents"
     authors: "<b>Jihwan Oh</b>, Minchan Jeong, Jongwoo Ko, Se-Young Yun"
-    venue: "TACL 2026" (To be presented at ACL 2026)
-    selected: y
-    #paper_pdf:
-    #arxiv:
-    #website:
-    #code:
+    venue: "TACL 2026"
+    venue2: "To be presented at ACL 2026"
+    selected: "y"
+    paper_pdf:
+    arxiv:
+    website:
+    code:
 
   - title: "Dual Preference Learning for Multi-Agent Reinforcement Learning"
     authors: "Sehyeok Kang, Minu Kim, <b>Jihwan Oh</b>, Se-Young Yun"
     venue: "IEEE Access"
-    selected: y
-    #paper_pdf:
-    #arxiv:
-    #website:
-    #code:
+    selected: "y"
+    paper_pdf:
+    arxiv:
+    website:
+    code:
