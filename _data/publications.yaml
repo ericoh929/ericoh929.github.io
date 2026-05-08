@@ -1,45 +1,39 @@
 papers:
-  - title: "[C4] Learning Multi-View Spatial Reasoning from Cross-View Relations"
-    authors: "<a >Suchae Jeong</a>, <a>Jaehwi Song</a>, <a>Haeone Lee</a>, <a>Hanna Kim</a>, <a>Jian Kim</a>, <b><u>Dongjun Lee</u></b>, <a>Dongkyu Shin</a>, <a>Changyeon Kim</a>, <a>Dongyoon Hahm</a>, <a>Woogyeol Jin</a>, <a>Juheon Choi</a>, <a>Kimin Lee</a>"
-    venue: "CVPR 2026"
-    selected: y
+- title: "PerMix-RLVR: Preserving Persona Expressivity under Verifiable-Reward Alignment"
+    authors: "<b>Jihwan Oh</b>, ..."
+    venue: "Preprint"
+    selected: "n"
+    paper_pdf:
+    arxiv:
+    website:
+    code:
 
-  - title: "[C3] Learning to Generate Unit Test via Adversarial Reinforcement Learning"
-    authors: "<b><u>Dongjun Lee</u></b>, <a href='https://chhwang.github.io'>Changho Hwang</a>, <a href='https://sites.google.com/view/kiminlee/'>Kimin Lee</a>"
-    venue: "ICLR 2026"
-    code: "https://github.com/dgjun32/UTRL"
-    arxiv: "https://arxiv.org/abs/2508.21107"
-    website: "/UTRL/"
-    selected: y
+  - title: "MERIT: Measuring Human-Aligned Strategic Behavior in LLM Negotiation Agents"
+    authors: "<b>Jihwan Oh</b>, Murad Aghazada, Yooju Shin, Se-Young Yun, Taehyeon Kim"
+    venue: "ACL 2026"
+    selected: "y"
+    paper_pdf: 
+    arxiv:
+    website:
+    code:
 
-  - title: "[W1] Adversarial Iterative Unit Test Generation with Large Language Models"
-    authors: "<b><u>Dongjun Lee</u></b>, <a href='https://jylee425.github.io/'>Juyong Lee</a>, <a href='https://chhwang.github.io'>Changho Hwang</a>, <a href='https://sites.google.com/view/kiminlee/'>Kimin Lee</a>"
-    venue: "ICLR 2026 Workshop on Agentic AI in the Wild"
-    selected: y
+  - title: "From Belief Entrenchment to Robust Reasoning in LLM Agents"
+    authors: "<b>Jihwan Oh</b>, Minchan Jeong, Jongwoo Ko, Se-Young Yun"
+    venue: "TACL 2026"
+    venue2: "To be presented at ACL 2026"
+    selected: "y"
+    paper_pdf:
+    arxiv:
+    website:
+    code:
 
-  - title: "[C2] Learning to Contextualize Web Pages for Enhanced Decision Making by LLM Agents"
-    authors: "<b><u>Dongjun Lee</u><sup style='position: relative; top: 7px; font-size: 1.9em;'>*</sup></b>, <a href='https://jylee425.github.io/'>Juyong Lee<sup style='position: relative; top: 7px; font-size: 1.9em;'>*</sup></a>, <a href='https://kykim0.github.io'>Kyuyoung Kim</a>, <a href='https://jihoontack.github.io'>Jihoon Tack</a>, <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>, <a href='https://www.stats.ox.ac.uk/~teh/'>Yee Whye Teh</a>, <a href='https://sites.google.com/view/kiminlee/'>Kimin Lee</a>"
-    venue: "ICLR 2025"
-    arxiv: "https://arxiv.org/abs/2503.10689"
-    code: "https://github.com/dgjun32/lcow_iclr2025"
-    website: "https://lcowiclr2025.github.io"
-    selected: y
 
-  - title: "[P2] Collaborative LLM Inference via Planning for Efficient Reasoning"
-    authors: "<a>Byeongchan Lee</a>, <a>Jonghoon Lee</a>, <a>Dongyoung Kim</a>, <a>Jaehyung Kim</a>, <a>Kyungjoon Park</a>, <b><u>Dongjun Lee</u></b>, <a>Jinwoo Shin</a>"
-    venue: "Arxiv Preprint"
-    arxiv: "https://arxiv.org/abs/2506.11578"
-    selected: y
 
-  - title: "[P1] Automated Skill Discovery for Language Agents through Exploration and Iterative Feedback"
-    authors: "<a href='https://yangyongjin.github.io/'>Yongjin Yang</a>, <a href='https://sinjae.me'>Sinjae Kang</a>, <a href='https://jylee425.github.io/'>Juyong Lee</a>, <b><u>Dongjun Lee</u></b>, <a href='https://fbsqkd.github.io/'>Seyoung Yun</a>, <a href='https://sites.google.com/view/kiminlee/'>Kimin Lee</a>"
-    venue: "Arxiv Preprint"
-    arxiv: "https://arxiv.org/abs/2506.04287"
-    selected: y
-
-  - title: "[C1] Read-only prompt optimization for Vision-Language Few-shot Learning"
-    authors: "<b><u>Dongjun Lee</u><sup style='position: relative; top: 7px; font-size: 1.9em;'>*</sup></b>, <a>Seokwon Song<sup style='position: relative; top: 7px; font-size: 1.9em;'>*</sup></a>, <a>Jihee Suh</a>, <a>Junmyeong Choi</a>, <a>Sanghyeok Lee</a>, <a>Hyunwoo J.Kim</a>"
-    venue: "ICCV 2023"
-    arxiv: "https://arxiv.org/abs/2308.14960"
-    code: "https://github.com/dgjun32/RPO"
-    selected: y
+  - title: "Dual Preference Learning for Multi-Agent Reinforcement Learning"
+    authors: "Sehyeok Kang, Minu Kim, <b>Jihwan Oh</b>, Se-Young Yun"
+    venue: "IEEE Access"
+    selected: "y"
+    paper_pdf:
+    arxiv:
+    website:
+    code:
