@@ -1,6 +1,6 @@
 papers:
 
-  - title: "[C3] MERIT Feedback Elicits Better Bargaining in LLM Negotiators"
+  - title: "MERIT Feedback Elicits Better Bargaining in LLM Negotiators"
     authors: "<b>Jihwan Oh</b>, Murad Aghazada, Yooju Shin, Se-Young Yun<sup>&dagger;</sup>, Taehyeon Kim<sup>&dagger;</sup>"
     venue: "ACL 2026"
     selected: "y"
@@ -9,25 +9,25 @@ papers:
     website:
     code:
 
-  - title: "[P1/W3] PerMix-RLVR: Preserving Persona Expressivity under Verifiable-Reward Alignment"
+  - title: "PerMix-RLVR: Preserving Persona Expressivity under Verifiable-Reward Alignment"
     authors: "<b>Jihwan Oh<sup>*</sup></b>, Soowon Oh<sup>*</sup>, Murad Aghazada, Minchan Jeong, MyeongSeok Kang, Sungnyun Kim<sup>&dagger;</sup>, Se-Young Yun<sup>&dagger;</sup>"
     venue: "Preprint / AAAI 2026 DAI Workshop"
-    selected: "y"
+    selected: "no"
     paper_pdf:
     arxiv:
     website:
     code:
 
-  - title: "[W2] Bridging the Gap between Theory of Mind and Action in LLMs"
+  - title: "Bridging the Gap between Theory of Mind and Action in LLMs"
     authors: "Sehyeok Kang, <b>Jihwan Oh</b>, Se-Young Yun<sup>&dagger;</sup>"
     venue: "ICLR 2026 AIWILD Workshop"
-    selected: "y"
+    selected: "no"
     paper_pdf:
     arxiv:
     website:
     code:
 
-  - title: "[J3] From Belief Entrenchment to Robust Reasoning in LLM Agents"
+  - title: "From Belief Entrenchment to Robust Reasoning in LLM Agents"
     authors: "<b>Jihwan Oh<sup>*</sup></b>, Minchan Jeong<sup>*</sup>, Jongwoo Ko<sup>&dagger;</sup>, Se-Young Yun<sup>&dagger;</sup>"
     venue: "TACL 2026 (To be presented at ACL 2026)"
     selected: "y"
@@ -36,7 +36,7 @@ papers:
     website:
     code:
 
-  - title: "[J2] Dual Preference Learning for Multi-Agent Reinforcement Learning"
+  - title: "Dual Preference Learning for Multi-Agent Reinforcement Learning"
     authors: "Sehyeok Kang, Minu Kim, <b>Jihwan Oh</b>, Se-Young Yun<sup>&dagger;</sup>"
     venue: "IEEE Access 2025"
     selected: "y"
@@ -54,19 +54,19 @@ papers:
     website:
     code:
 
-  - title: "[W1] Diffusion-based Episodes Augmentation for Offline Multi-Agent Reinforcement Learning"
+  - title: "Diffusion-based Episodes Augmentation for Offline Multi-Agent Reinforcement Learning"
     authors: "<b>Jihwan Oh</b>, Sungnyun Kim, Gahee Kim, Sunghwan Kim, Se-Young Yun<sup>&dagger;</sup>"
     venue: "ICML 2024 SPIGM Workshop"
-    selected: "y"
+    selected: "no"
     paper_pdf:
     arxiv:
     website:
     code:
 
 
-  - title: "[C1] Toward Risk-based Optimistic Exploration for Cooperative Multi-Agent Reinforcement Learning"
+  - title: "Toward Risk-based Optimistic Exploration for Cooperative Multi-Agent Reinforcement Learning"
     authors: "<b>Jihwan Oh<sup>*</sup></b>, Joonkee Kim<sup>*</sup>, Minchan Jeong, Se-Young Yun<sup>&dagger;</sup>"
-    venue: "AAMAS 2024"
+    venue: "AAMAS 2023"
     selected: "y"
     paper_pdf:
     arxiv:
@@ -74,9 +74,9 @@ papers:
     code:
 
 
-  - title: "[J1] The StarCraft Multi-Agent Exploration Challenges: Learning Multi-Stage Tasks and Environmental Factors without Precise Reward Functions"
+  - title: "The StarCraft Multi-Agent Exploration Challenges: Learning Multi-Stage Tasks and Environmental Factors without Precise Reward Functions"
     authors: "Mingyu Kim<sup>*</sup>, <b>Jihwan Oh<sup>*</sup></b>, Yongsik Lee, Joonkee Kim, Seonghwan Kim, Song Chong, Se-Young Yun<sup>&dagger;</sup>"
-    venue: "IEEE Access 2024"
+    venue: "IEEE Access 2023"
     selected: "y"
     paper_pdf:
     arxiv:
