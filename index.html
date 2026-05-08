@@ -6,9 +6,17 @@ layout: default
 <div class="docs-section" id="about">
   <h4>About</h4>
   <p>
-    I am a Ph.D. student at <a href="https://www.kaist.ac.kr/en/">KAIST</a>, advised by Prof.
+    I am a Ph.D. candidate in Artificial Intelligence at
+    <a href="https://www.kaist.ac.kr/en/">KAIST</a>, advised by Prof.
     <a href="https://scholar.google.com/citations?user=X_IAjb8AAAAJ&hl=en">Se-Young Yun</a>.
-    I am currently interested in <b>Language model</b>, with a focus on enabling LLMs to have social intelligence.
+    My research focuses on <b>large language model agents</b>, with a particular interest in
+    <b>social intelligence</b>, <b>multi-agent interaction</b>, <b>negotiation</b>, and
+    <b>post-training methods</b> for making LLM agents more robust, reliable, and socially capable.
+  </p>
+  <p>
+    More broadly, I am interested in understanding how LLM agents acquire social behaviors through interaction,
+    and how training methods such as reinforcement learning and verifiable rewards can improve their reasoning,
+    alignment, and role-adaptive behavior.
   </p>
 </div>
 
@@ -36,17 +44,13 @@ layout: default
         {% endif %}
         <div class="paper-buttons">
           {% if paper.paper_pdf %}
-          <a class="button" href="{{ paper.paper_pdf }}" target="_blank"
-            >Paper</a
-          >
+          <a class="button" href="{{ paper.paper_pdf }}" target="_blank">Paper</a>
           {% endif %} {% if paper.arxiv %}
           <a class="button" href="{{ paper.arxiv }}" target="_blank">Arxiv</a>
           {% endif %} {% if paper.slides %}
           <a class="button" href="{{ paper.slides }}" target="_blank">Slides</a>
           {% endif %} {% if paper.website %}
-          <a class="button" href="{{ paper.website | prepend: site.baseurl }}" target="_blank"
-            >Website</a
-          >
+          <a class="button" href="{{ paper.website | prepend: site.baseurl }}" target="_blank">Website</a>
           {% endif %} {% if paper.poster %}
           <a class="button" href="{{ paper.poster }}" target="_blank">Poster</a>
           {% endif %} {% if paper.video %}
@@ -72,40 +76,15 @@ layout: default
         {% endif %}
         <div class="paper-buttons">
           {% if paper.paper_pdf %}
-          <a
-            class="button"
-            href="{{ paper.paper_pdf | prepend: site.baseurl }}"
-            target="_blank"
-            >Paper</a
-          >
+          <a class="button" href="{{ paper.paper_pdf }}" target="_blank">Paper</a>
           {% endif %} {% if paper.arxiv %}
-          <a
-            class="button"
-            href="{{ paper.arxiv | prepend: site.baseurl }}"
-            target="_blank"
-            >Arxiv</a
-          >
+          <a class="button" href="{{ paper.arxiv }}" target="_blank">Arxiv</a>
           {% endif %} {% if paper.slides %}
-          <a
-            class="button"
-            href="{{ paper.slides | prepend: site.baseurl }}"
-            target="_blank"
-            >Slides</a
-          >
+          <a class="button" href="{{ paper.slides }}" target="_blank">Slides</a>
           {% endif %} {% if paper.website %}
-          <a
-            class="button"
-            href="{{ paper.website | prepend: site.baseurl }}"
-            target="_blank"
-            >Website</a
-          >
+          <a class="button" href="{{ paper.website | prepend: site.baseurl }}" target="_blank">Website</a>
           {% endif %} {% if paper.poster %}
-          <a
-            class="button"
-            href="{{ paper.poster | prepend: site.baseurl }}"
-            target="_blank"
-            >Poster</a
-          >
+          <a class="button" href="{{ paper.poster }}" target="_blank">Poster</a>
           {% endif %} {% if paper.video %}
           <a class="button" href="{{ paper.video }}" target="_blank">Video</a>
           {% endif %} {% if paper.code %}
@@ -123,101 +102,92 @@ layout: default
 <!-- ========== Education ========== -->
 <div class="docs-section" id="education">
   <h4>Education</h4>
+
   <div class="paper">
     <p class="title">
-      <b>Korea Advanced Institute of Science and Technology (KAIST)<b
-          style="float: right"
-          >Mar. 2024 - Present</b
-         ></b
-      >
+      <b>Korea Advanced Institute of Science and Technology (KAIST)
+        <b style="float: right">Mar. 2024 - Present</b>
+      </b>
     </p>
-    <p>Ph.D. Student in Artificial Intelligence</p>
+    <p>Ph.D. Candidate in Artificial Intelligence</p>
   </div>
+
   <div class="paper">
     <p class="title">
-      <b
-        >Korea University<b
-          style="float: right"
-          >Mar. 2018 - Feb. 2024</b
-        ></b
-      >
+      <b>Korea Advanced Institute of Science and Technology (KAIST)
+        <b style="float: right">Mar. 2022 - Feb. 2024</b>
+      </b>
     </p>
-    <p>B.S. in Statistics</p>
+    <p>M.S. in Artificial Intelligence</p>
+  </div>
+
+  <div class="paper">
+    <p class="title">
+      <b><!-- University Name -->
+        <b style="float: right"><!-- Period --></b>
+      </b>
+    </p>
+    <p><!-- B.S. in ... --></p>
   </div>
 </div>
 
 <!-- ========== Experience ========== -->
 <div class="docs-section" id="experience">
   <h4>Experience</h4>
-  <div class="paper">
-    <p class="title">
-      <b
-        >Microsoft Research<b style="float: right"
-          >Mar. 2025 - Jun. 2025<br>Vancouver, Canada</b
-        ></b
-      >
-    </p>
-    <a>Research intern</a>
-  </div>
 
   <div class="paper">
     <p class="title">
-      <b
-        >Microsoft Research<b style="float: right"
-          >Sep. 2024 - Feb. 2025<br>Beijing, China</b
-        ></b
-      >
+      <b>KAIST OSI Lab
+        <b style="float: right">Mar. 2022 - Present<br>Daejeon, Korea</b>
+      </b>
     </p>
-    <a>Research intern</a>
+    <a>Graduate Researcher</a>
   </div>
 
+  <!-- Add your internships or industry experiences here later. -->
+  <!--
   <div class="paper">
     <p class="title">
-      <b
-        >NAVER Corp<b style="float: right"
-          >Jun. 2023 - Aug. 2023<br>Jeongja, Korea</b
-        ></b
-      >
+      <b>Organization Name
+        <b style="float: right">Start - End<br>Location</b>
+      </b>
     </p>
-    <a>Research intern</a>
+    <a>Research Intern</a>
   </div>
-
+  -->
 </div>
 
 <!-- ========== Academic Services ========== -->
 <div class="docs-section" id="services">
   <h4>Academic Services</h4>
   <div class="paper">
-    <p class="title"><b>Conference Reviewer</b>, ICLR 2025, ICLR 2026, CVPR 2026</p>
-    <p class="title"><b>Journal Reviewer</b>, Pattern Recognition</p>
+    <p class="title"><b>Conference Reviewer</b>, <!-- ACL, EMNLP, ICLR, NeurIPS, etc. --></p>
+    <p class="title"><b>Journal Reviewer</b>, <!-- TACL, ARR, etc. --></p>
   </div>
 </div>
 
 <!-- ========== Honors & Awards ========== -->
 <div class="docs-section" id="honors">
   <h4>Honors & Awards</h4>
+
   <div class="paper">
     <p class="title">
-      <b>Donggyo Talent Award</b>, Surim Foundation<b
-        style="float: right"
-        >Dec. 2023</b
-      >
+      <b>First-author paper accepted to ACL 2026 Main Conference</b>
+      <b style="float: right">2026</b>
     </p>
   </div>
+
   <div class="paper">
     <p class="title">
-      <b>Ilju Academy and Culture Foundation Scholarship</b>, Ilju Foundation<b
-        style="float: right"
-        >Dec. 2018 ~ Feb. 2024</b
-      >
+      <b>First-author paper accepted to Transactions of the Association for Computational Linguistics</b>
+      <b style="float: right">2026</b>
     </p>
   </div>
+
   <div class="paper">
     <p class="title">
-      <b>Semester high honor</b>, Korea University<b
-        style="float: right"
-        >2018S, 2018F, 2019S, 2019F, 2022S, 2022F, 2023S</b
-      >
+      <b>First-author paper accepted to AAMAS</b>
+      <b style="float: right"><!-- Year --></b>
     </p>
   </div>
 </div>
