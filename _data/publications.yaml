@@ -29,7 +29,7 @@ papers:
 
   - title: "[J3] From Belief Entrenchment to Robust Reasoning in LLM Agents"
     authors: "<b>Jihwan Oh<sup>*</sup></b>, Minchan Jeong<sup>*</sup>, Jongwoo Ko<sup>&dagger;</sup>, Se-Young Yun<sup>&dagger;</sup>"
-    venue: "TACL 2026 (To be presented at ACL 2026) / ICML 2024 Reasoning & Planning Workshop"
+    venue: "TACL 2026 (To be presented at ACL 2026)"
     selected: "y"
     paper_pdf:
     arxiv:
